@@ -32,3 +32,16 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.project {
+    background-color: #ebf7de;
+    padding: 10px 20px;
+}
+
+.project p {
+		text-align: center;
+}
+
+.img {
+		padding: 20px 10px 10px;
+}
